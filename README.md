@@ -62,3 +62,16 @@ They also help developers grow because: Team members learn better approach from 
 
 Overall, code reviews promote
 **shared responsibility and continuous learning**
+
+## 5.Reflection:AI as a Tool for Understanding
+AI (like Large Language Models) can be an incredible "tutor" for code comprehension. Instead of asking AI to "write this function for me," a student can use it to explain a complex block of code or summarize what a specific library does. To ensure AI doesn't replace learning.
+
+**students should:**
+
+Use it to explain why a certain pattern is used.
+
+Ask for "hints" rather than full solutions.
+
+Verify the AI’s output treating the AI as a peer who might be wrong, which forces the student to critically analyze the code themselves.
+
+**Key Takeaway:** Software construction is about building for the future. It’s not just about the code you write today, but how easily that code can be understood and changed by someone else tomorrow.
