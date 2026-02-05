@@ -1,7 +1,7 @@
 # Software-Engineering-Principles-Explained
 This assignment focuses on the transition from just "writing code" to the professional discipline of engineering software. Here is a comprehensive response to the tasks outlined in your document.
 
-# Programming and Software Construction
+# 1. Programming and Software Construction
 Both are used interchangeably but they have a significant difference between them that is to say;
 
 Programming involves writing code to solve a specific problems or implement an algorithm. 
@@ -42,7 +42,7 @@ This can lead to:Data loss or incorrect patient information, System downtime, De
 This shows why maintainable software is critical, especially in systems that affect real people.
 
 
-## 3.Cow code Reviews Improve Software Quality And Developer Skills
+## 4. How code Reviews Improve Software Quality And Developer Skills
 
 Code reviews involve developers checking each other's code before it is emerged into the main project.
 
