@@ -75,3 +75,15 @@ Ask for "hints" rather than full solutions.
 Verify the AI’s output treating the AI as a peer who might be wrong, which forces the student to critically analyze the code themselves.
 
 **Key Takeaway:** Software construction is about building for the future. It’s not just about the code you write today, but how easily that code can be understood and changed by someone else tomorrow.
+
+## Group Members
+
+1. Karungi Joan Leticia- S24B23/014.
+               
+2. ⁠Akampurira Aisha- S24B23/081
+   
+3. ⁠NAKIWALA Josephine- M24B23/044
+   
+4. MUTEGEKI JAMES- M24B23/007
+   
+5. WANYOTO MARK- S24B23/114
