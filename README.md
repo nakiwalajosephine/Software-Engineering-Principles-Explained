@@ -66,7 +66,7 @@ Overall, code reviews promote
 ## 5.Reflection:AI as a Tool for Understanding
 AI (like Large Language Models) can be an incredible "tutor" for code comprehension. Instead of asking AI to "write this function for me," a student can use it to explain a complex block of code or summarize what a specific library does. To ensure AI doesn't replace learning.
 
-**students should:**
+**Students should:**
 
 Use it to explain why a certain pattern is used.
 
