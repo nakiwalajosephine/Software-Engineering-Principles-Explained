@@ -40,3 +40,15 @@ A hospital uses a patient management system that was poorly maintained. The orig
 This can lead to:Data loss or incorrect patient information, System downtime, Delays in medical services, Increased costs and risks to human life.
 
 This shows why maintainable software is critical, especially in systems that affect real people.
+
+
+## how code reviews improve software quality and developer skills
+
+Code reviews involve developers checking each other's code before it is emerged into the main project.
+
+They improve software quality by : detecting bugs, ensuring coding standards are followed, improving readability and improve structure, reducing security vulnerabilities.
+
+They also help developers grow because: Team members learn better approach from each other, feedback improves problem solving skills, junior developers gain confidence and experience.
+
+Overall, code reviews promote
+**shared responsibility and continuous learning**
