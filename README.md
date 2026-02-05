@@ -7,4 +7,7 @@ Both are used interchangeably but they have a significant difference between the
 Programming involves writing code to solve a specific problems or implement an algorithm. 
 **WHILE**
 
-Software construction is the process of building software products. It includes programming and other steps like testing, design, maintainability, 
+Software construction is the process of building software products. It includes programming and other steps like testing, design, maintainability, implementation, debbugging, deployment and requirement gathering.
+
+**Real life scenario**
+
