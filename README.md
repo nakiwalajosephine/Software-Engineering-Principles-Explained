@@ -41,6 +41,16 @@ This can lead to:Data loss or incorrect patient information, System downtime, De
 
 This shows why maintainable software is critical, especially in systems that affect real people.
 
+## 3.The Criticality of Version
+In a team environment, Version Control(like Git) aycts as the single source of truth.It is critical for three reasons:
+
+**Collaboration:** Multiple developers can work on the same file simultaneously without overwriting each other's work through "branching" and "merging."
+
+**Accountability and History:** It provides a "time machine." If a bug is introduced on Tuesday, the team can see exactly which line was changed, by whom, and why.
+
+**Risk Mitigation:** If a new feature causes a system failure, the team can "roll back" the entire codebase to a previous stable version in seconds.
+
+
 
 ## 4. How code Reviews Improve Software Quality And Developer Skills
 
