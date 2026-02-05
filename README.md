@@ -42,7 +42,7 @@ This can lead to:Data loss or incorrect patient information, System downtime, De
 This shows why maintainable software is critical, especially in systems that affect real people.
 
 
-## 3.how code reviews improve software quality and developer skills
+## 3.Cow code Reviews Improve Software Quality And Developer Skills
 
 Code reviews involve developers checking each other's code before it is emerged into the main project.
 
